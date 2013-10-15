@@ -1,0 +1,7 @@
+target/
+.rvmrc
+storm
+ivy
+.bundle
+Gemfile.lock
+.DS_Store
